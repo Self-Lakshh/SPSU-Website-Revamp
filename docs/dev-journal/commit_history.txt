@@ -4,3 +4,4 @@
 2024-01-17 20:35:44 - configure tsconfig compiler paths and settings
 2024-01-18 20:51:23 - add default index.html and manifest files
 2024-01-19 21:45:41 - setup firebase web client configurations
+2024-01-19 20:24:54 - initialize firebase authentication variables
