@@ -6,3 +6,4 @@
 2024-01-19 21:45:41 - setup firebase web client configurations
 2024-01-19 20:24:54 - initialize firebase authentication variables
 2024-01-20 01:41:40 - add firestore db instance client credentials
+2024-01-21 01:34:57 - add firebase cloud storage initialization
