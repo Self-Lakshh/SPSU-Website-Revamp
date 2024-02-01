@@ -19,3 +19,4 @@
 2024-01-31 18:28:48 - create roadmap milestones log
 2024-02-01 01:14:32 - define base style design tokens in index.css
 2024-02-01 00:06:36 - style global typography parameters
+2024-02-02 00:09:00 - setup route layouts directory structure
