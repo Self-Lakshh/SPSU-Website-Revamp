@@ -22,3 +22,4 @@
 2024-02-02 00:09:00 - setup route layouts directory structure
 2024-02-02 02:05:38 - implement page loading screen wrapper
 2024-02-04 18:10:26 - create shared custom page loader component
+2024-02-04 18:52:22 - setup basic public navigation route wrappers
