@@ -29,3 +29,4 @@
 2024-02-14 19:06:53 - add responsive hamburger drawer for mobile viewports
 2024-02-15 03:01:49 - implement site footer grid layout
 2024-02-15 01:57:05 - style footer coordinates and dynamic links
+2024-02-15 19:18:03 - install framer-motion library
