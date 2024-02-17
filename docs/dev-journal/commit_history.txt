@@ -34,3 +34,4 @@
 2024-02-17 21:50:04 - create stagger-container animation components
 2024-02-17 22:40:26 - build homepage hero slideshow carousel
 2024-02-17 18:50:39 - style slider transition fades and time frames
+2024-02-18 00:17:12 - add hero CTA buttons action hooks
