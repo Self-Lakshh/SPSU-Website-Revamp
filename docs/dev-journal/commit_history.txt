@@ -49,3 +49,4 @@
 2024-03-16 02:16:56 - implement departments program listings layout
 2024-03-18 02:16:13 - add program detail accordions expanders
 2024-03-17 18:50:01 - style syllabus PDF download button interfaces
+2024-03-18 02:53:18 - add eligibility criteria and course descriptions
