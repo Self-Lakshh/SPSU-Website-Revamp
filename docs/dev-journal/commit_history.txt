@@ -47,3 +47,4 @@
 2024-02-24 23:54:34 - add scroll-reveal motion boundaries to homepage
 2024-03-15 23:30:39 - build academics portal tabbed schools overview
 2024-03-16 02:16:56 - implement departments program listings layout
+2024-03-18 02:16:13 - add program detail accordions expanders
