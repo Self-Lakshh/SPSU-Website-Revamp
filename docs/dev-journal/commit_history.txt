@@ -50,3 +50,4 @@
 2024-03-18 02:16:13 - add program detail accordions expanders
 2024-03-17 18:50:01 - style syllabus PDF download button interfaces
 2024-03-18 02:53:18 - add eligibility criteria and course descriptions
+2024-03-18 23:38:51 - build faculty directory searching indexes
