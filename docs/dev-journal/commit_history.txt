@@ -67,3 +67,4 @@
 2024-04-16 19:43:00 - implement firestore submit handler in admissions
 2024-04-18 00:27:11 - add form loading state indicator spinner
 2024-04-19 00:37:52 - build placements statistics high-package counters
+2024-04-18 23:03:21 - implement recruiters logo scrolling slider
