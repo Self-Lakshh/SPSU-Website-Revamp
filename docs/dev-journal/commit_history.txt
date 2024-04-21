@@ -72,3 +72,4 @@
 2024-04-19 20:29:19 - style placements auditing table details
 2024-04-19 23:48:07 - build gallery albums visual catalog page
 2024-04-21 02:47:07 - implement category folders selection filter
+2024-04-22 02:03:06 - style gallery image grids hover scaling
