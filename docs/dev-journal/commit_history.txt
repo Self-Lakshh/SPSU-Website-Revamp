@@ -91,3 +91,4 @@
 2024-05-22 21:05:57 - build admin CMS layout sidebar menu list
 2024-05-22 19:49:09 - build CMS enquiries manager grid table
 2024-05-24 01:33:04 - implement enquiries status update change queries
+2024-05-23 19:51:29 - add enquiries delete collection document actions
