@@ -93,3 +93,4 @@
 2024-05-24 01:33:04 - implement enquiries status update change queries
 2024-05-23 19:51:29 - add enquiries delete collection document actions
 2024-05-24 21:48:22 - build CMS news article publisher editor
+2024-05-24 19:51:47 - implement automatic slug generation from title
