@@ -96,3 +96,4 @@
 2024-05-24 19:51:47 - implement automatic slug generation from title
 2024-05-26 02:34:02 - build CMS events catalog schedule builder
 2024-05-28 22:49:42 - add datetimes pickers widgets on events creation
+2024-05-31 21:13:12 - build CMS faculty roster profile editor
