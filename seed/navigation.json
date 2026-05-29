@@ -1,0 +1,61 @@
+[
+  {
+    "id": "nav-home",
+    "label": "Home",
+    "path": "/",
+    "order": 1
+  },
+  {
+    "id": "nav-academics",
+    "label": "Academics",
+    "path": "/academics",
+    "order": 2,
+    "children": [
+      { "label": "Computing & Informatics", "path": "/academics?dept=cse" },
+      { "label": "Integrated & Advanced Tech", "path": "/academics?dept=fiat" },
+      { "label": "Management Studies", "path": "/academics?dept=mgmt" },
+      { "label": "Design & Liberal Studies", "path": "/academics?dept=design" },
+      { "label": "Faculty of Law", "path": "/academics?dept=law" }
+    ]
+  },
+  {
+    "id": "nav-faculty",
+    "label": "Faculty",
+    "path": "/faculty",
+    "order": 3
+  },
+  {
+    "id": "nav-admissions",
+    "label": "Admissions",
+    "path": "/admissions",
+    "order": 4
+  },
+  {
+    "id": "nav-placements",
+    "label": "Placements",
+    "path": "/placements",
+    "order": 5
+  },
+  {
+    "id": "nav-gallery",
+    "label": "Gallery",
+    "path": "/gallery",
+    "order": 6
+  },
+  {
+    "id": "nav-news-events",
+    "label": "News & Events",
+    "path": "/news",
+    "order": 7,
+    "children": [
+      { "label": "University News", "path": "/news" },
+      { "label": "Upcoming Events", "path": "/events" }
+    ]
+  },
+  {
+    "id": "nav-contact",
+    "label": "Contact",
+    "path": "/contact",
+    "order": 8
+  }
+]

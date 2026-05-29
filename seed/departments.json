@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cse",
+    "name": "Department of Computing and Informatics",
+    "code": "CSE",
+    "description": "Offering cutting-edge education in Computer Science and Engineering, Artificial Intelligence, Machine Learning, Cloud Computing, and Information Security in partnership with global industry leaders like IBM and Xebia.",
+    "hodId": "amit-goel",
+    "coverImage": "https://spsu.ac.in/images/slider/academic-block.jpg"
+  },
+  {
+    "id": "fiat",
+    "name": "Department of Integrated and Advanced Technology",
+    "code": "FIAT",
+    "description": "Fostering engineering innovators across Mechanical, Mining, Civil, Electrical, and Biotechnology disciplines, equipped with advanced laboratories and industry training programs by L&T EduTech.",
+    "hodId": "naveen-kumar",
+    "coverImage": "https://spsu.ac.in/images/about/campus.jpg"
+  },
+  {
+    "id": "sciences",
+    "name": "Department of Sciences",
+    "code": "AS",
+    "description": "Providing strong foundational knowledge in Applied Engineering Physics, Materials Chemistry, Analytics, and Mathematics to prepare students for core technical and research-oriented careers.",
+    "hodId": "deepak-vyas",
+    "coverImage": "https://spsu.ac.in/images/departments/science-lab.jpg"
+  },
+  {
+    "id": "mgmt",
+    "name": "Department of Management Studies",
+    "code": "MGMT",
+    "description": "Shaping future business leaders through specialized MBA and BBA programs with focus areas in Business Analytics, Fintech, HR, Marketing, and Supply Chain Logistics.",
+    "hodId": "sadananda-prusty",
+    "coverImage": "https://spsu.ac.in/images/gallery/management-seminar.jpg"
+  },
+  {
+    "id": "design",
+    "name": "Department of Design and Liberal Studies",
+    "code": "DLS",
+    "description": "Empowering students in creative problem-solving, UI/UX interaction design, and liberal humanities to meet the demands of modern creative industries.",
+    "hodId": "shweta-lalwani",
+    "coverImage": "https://spsu.ac.in/images/gallery/design-studio.jpg"
+  },
+  {
+    "id": "law",
+    "name": "Faculty of Law",
+    "code": "LAW",
+    "description": "Providing a comprehensive legal curriculum that bridges theory with practical advocacy skills through mock trials, moot courts, and legal aid societies.",
+    "hodId": "sadananda-prusty",
+    "coverImage": "https://spsu.ac.in/images/gallery/moot-court.jpg"
+  }
+]

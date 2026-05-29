@@ -1,0 +1,44 @@
+[
+  {
+    "id": "news-ibm-collaboration",
+    "title": "SPSU Announces Academic Partnership with IBM India",
+    "slug": "spsu-announces-academic-partnership-with-ibm-india",
+    "content": "Sir Padampat Singhania University (SPSU) has signed a Memorandum of Understanding (MoU) with IBM India to integrate high-demand digital skills into the B.Tech Computer Science curriculum. Under this partnership, IBM will provide training in Cloud Computing, Cybersecurity, and Artificial Intelligence, giving students access to IBM software, professional certifications, and industry mentorship.",
+    "excerpt": "SPSU partners with IBM India to integrate industry-aligned certifications in Cloud, AI, and Cybersecurity directly into the Computer Science curriculum.",
+    "category": "Academics",
+    "tags": ["Partnership", "IBM", "Computer Science"],
+    "authorId": "amit-goel",
+    "coverImage": "https://spsu.ac.in/images/slider/academic-block.jpg",
+    "status": "published",
+    "publishedAt": "2026-05-15T00:00:00Z",
+    "createdAt": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "news-placement-success",
+    "title": "Record Placements: 92% of Batch 2025 Successfully Recruited",
+    "slug": "record-placements-92-percent-recruited",
+    "content": "Sir Padampat Singhania University achieves stellar placements for the graduating batch of 2025. With top corporate entities like JK Cement, Wipro, TCS, Cognizant, and Syntel conducting recruitment drives, over 92.5% of students secured packages before completing their final semester. The highest package recorded stood at 13.0 LPA, while the average package rose to 4.8 LPA.",
+    "excerpt": "SPSU celebrates a stellar placement season for the class of 2025, reaching a 92.5% placement rate with a highest package of 13.0 LPA.",
+    "category": "Placements",
+    "tags": ["Recruitment", "Success", "Placements"],
+    "authorId": "sadananda-prusty",
+    "coverImage": "https://spsu.ac.in/images/gallery/management-seminar.jpg",
+    "status": "published",
+    "publishedAt": "2026-04-20T00:00:00Z",
+    "createdAt": "2026-04-20T00:00:00Z"
+  },
+  {
+    "id": "news-dst-grant",
+    "title": "Dr. Deepak Vyas Secures Prestigious DST-SERB Research Grant",
+    "slug": "dr-deepak-vyas-secures-dst-serb-research-grant",
+    "content": "Dr. Deepak Vyas, Associate Professor in the Department of Sciences at SPSU, has been awarded a major research grant of INR 45 Lakhs by the Department of Science and Technology, Government of India. The project focuses on synthesizing oxide nanoparticles for green energy storage devices, establishing SPSU as a leading hub for material physics research.",
+    "excerpt": "The Government of India awards Dr. Deepak Vyas a research grant of INR 45 Lakhs to advance green energy storage materials research at SPSU.",
+    "category": "Research",
+    "tags": ["Grant", "Research", "Physics"],
+    "authorId": "deepak-vyas",
+    "coverImage": "https://spsu.ac.in/images/departments/science-lab.jpg",
+    "status": "published",
+    "publishedAt": "2026-03-10T00:00:00Z",
+    "createdAt": "2026-03-10T00:00:00Z"
+  }
+]

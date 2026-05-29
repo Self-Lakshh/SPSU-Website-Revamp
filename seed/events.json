@@ -1,0 +1,35 @@
+[
+  {
+    "id": "event-hackathon-2026",
+    "title": "SPSU National Hackathon 2026",
+    "slug": "spsu-national-hackathon-2026",
+    "description": "A 36-hour hackathon for student developers across the country to build innovative solutions for sustainability, healthcare, and smart infrastructure. Sponsored by IBM and Xebia, offering cash prizes and internship opportunities.",
+    "date": "2026-10-15T09:00:00Z",
+    "location": "Main Auditorium & Computing Lab Block, SPSU Udaipur",
+    "image": "https://spsu.ac.in/images/gallery/management-seminar.jpg",
+    "isRegistrationOpen": true,
+    "registeredUsers": []
+  },
+  {
+    "id": "event-convocation-2026",
+    "title": "15th Annual Convocation Ceremony",
+    "slug": "15th-annual-convocation-ceremony",
+    "description": "Sir Padampat Singhania University celebrates the academic achievements of our graduating class. Chief Guests from top corporate organizations will join to award degrees and gold medals.",
+    "date": "2026-11-20T10:00:00Z",
+    "location": "Central Lawn, SPSU Udaipur",
+    "image": "https://spsu.ac.in/images/slider/academic-block.jpg",
+    "isRegistrationOpen": false,
+    "registeredUsers": []
+  },
+  {
+    "id": "event-mining-workshop",
+    "title": "Sustainable Mining & Heavy Machinery Workshop",
+    "slug": "sustainable-mining-heavy-machinery-workshop",
+    "description": "A technical workshop co-organized by L&T EduTech and JK Cement Group. Explore eco-friendly extraction technologies, mineral transport logistics, and safety protocols for heavy equipment.",
+    "date": "2026-09-05T09:30:00Z",
+    "location": "Advanced Machinery Lab & Mining Fields",
+    "image": "https://spsu.ac.in/images/about/campus.jpg",
+    "isRegistrationOpen": true,
+    "registeredUsers": []
+  }
+]

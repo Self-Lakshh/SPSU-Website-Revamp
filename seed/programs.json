@@ -1,0 +1,82 @@
+[
+  {
+    "id": "btech-cse",
+    "departmentId": "cse",
+    "name": "B.Tech in Computer Science and Engineering",
+    "degree": "B.Tech",
+    "duration": "4 Years",
+    "eligibility": "10+2 with Physics, Mathematics, and Chemistry/Computer Science with minimum 60% aggregate marks. Admission based on JEE Main / SPSAT scores.",
+    "feeStructure": "INR 1,20,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/btech-cse-2024.pdf"
+  },
+  {
+    "id": "btech-mining",
+    "departmentId": "fiat",
+    "name": "B.Tech in Mining Engineering",
+    "degree": "B.Tech",
+    "duration": "4 Years",
+    "eligibility": "10+2 with Physics, Mathematics, and Chemistry with minimum 55% aggregate marks. Direct entry options for JK Cement sponsored candidates.",
+    "feeStructure": "INR 95,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/btech-mining.pdf"
+  },
+  {
+    "id": "btech-biotech",
+    "departmentId": "fiat",
+    "name": "B.Tech in Biotechnology",
+    "degree": "B.Tech",
+    "duration": "4 Years",
+    "eligibility": "10+2 with Physics, Chemistry, and Biology/Mathematics with minimum 55% aggregate marks.",
+    "feeStructure": "INR 95,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/btech-biotech.pdf"
+  },
+  {
+    "id": "mca",
+    "departmentId": "cse",
+    "name": "Master of Computer Applications",
+    "degree": "MCA",
+    "duration": "2 Years",
+    "eligibility": "Passed BCA/Bachelor Degree in Computer Science Engineering or equivalent degree. Or passed B.Sc./B.Com./B.A. with Mathematics at 10+2 level or at Graduation level (with additional bridge courses as per norms) with minimum 50% marks.",
+    "feeStructure": "INR 70,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/mca-2024.pdf"
+  },
+  {
+    "id": "bba",
+    "departmentId": "mgmt",
+    "name": "Bachelor of Business Administration",
+    "degree": "BBA",
+    "duration": "3 Years",
+    "eligibility": "10+2 in any stream from a recognized board with minimum 50% aggregate marks. Admission based on SPSAT.",
+    "feeStructure": "INR 65,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/bba-handbook.pdf"
+  },
+  {
+    "id": "mba",
+    "departmentId": "mgmt",
+    "name": "Master of Business Administration",
+    "degree": "MBA",
+    "duration": "2 Years",
+    "eligibility": "Bachelor's Degree in any discipline from a recognized university with minimum 50% marks. CAT / MAT / CMAT / XAT or SPSAT score required.",
+    "feeStructure": "INR 1,10,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/mba-curriculum.pdf"
+  },
+  {
+    "id": "bdes",
+    "departmentId": "design",
+    "name": "Bachelor of Design",
+    "degree": "B.Des",
+    "duration": "4 Years",
+    "eligibility": "10+2 in any stream with minimum 50% aggregate marks. Creative portfolio review and design aptitude evaluation required.",
+    "feeStructure": "INR 90,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/bdes-design.pdf"
+  },
+  {
+    "id": "phd-cse",
+    "departmentId": "cse",
+    "name": "Ph.D in Computer Science and Engineering",
+    "degree": "Ph.D",
+    "duration": "3-6 Years",
+    "eligibility": "Master's degree in Engineering/Technology with minimum 55% marks or equivalent grade. UGC-NET/GATE qualified candidates are exempted from SPSU Research Entrance Test.",
+    "feeStructure": "INR 40,000 per semester",
+    "syllabusUrl": "https://spsu.ac.in/downloads/syllabus/phd-cse.pdf"
+  }
+]

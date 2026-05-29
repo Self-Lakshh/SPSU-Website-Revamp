@@ -1,0 +1,214 @@
+[
+  {
+    "id": "sadananda-prusty",
+    "departmentId": "mgmt",
+    "name": "Prof. (Dr.) Sadananda Prusty",
+    "designation": "Dean - Faculty of Management",
+    "email": "sadananda.prusty@spsu.ac.in",
+    "phone": "+91-294-2760100",
+    "bio": "Prof. Sadananda Prusty has over 25 years of rich experience in academic leadership, corporate training, and research in Management, Applied Economics, and Public Finance. He has published extensively in peer-reviewed journals and spearheads industrial collaborations for SMLS.",
+    "image": "https://spsu.ac.in/images/faculty/sadananda-prusty.jpg",
+    "specializations": ["Applied Economics", "Corporate Finance", "Business Strategy"],
+    "publications": [
+      { "title": "Efficacy of Monetary Policy Transmission in Emerging Markets", "journal": "International Journal of Finance & Economics", "year": 2023, "url": "https://doi.org/10.1002/ijfe.281" },
+      { "title": "Infrastructure Investment and Regional Development: A Case Study of Western India", "journal": "Journal of Economic Development", "year": 2022, "url": "https://doi.org/10.1111/jed.122" }
+    ],
+    "achievements": [
+      "Outstanding Educator Award (AIMS International, 2023)",
+      "Advisory Board Member, Rajasthan Economic Association"
+    ]
+  },
+  {
+    "id": "amit-goel",
+    "departmentId": "cse",
+    "name": "Dr. Amit Kumar Goel",
+    "designation": "Professor & Dean (Computing & Informatics)",
+    "email": "amit.goel@spsu.ac.in",
+    "phone": "+91-294-2760101",
+    "bio": "Dr. Amit Kumar Goel specializes in Soft Computing, Artificial Intelligence, Machine Learning, and Big Data Warehouses. He drives the IBM Academic Initiative at SPSU to train students in Cloud Technologies and Modern Frameworks.",
+    "image": "https://spsu.ac.in/images/faculty/amit-goel.jpg",
+    "specializations": ["Machine Learning", "Soft Computing", "Big Data Analytics"],
+    "publications": [
+      { "title": "A Hybrid Deep Learning Model for Climate Prediction in Arid Zones", "journal": "IEEE Transactions on Systems, Man, and Cybernetics", "year": 2024, "url": "https://doi.org/10.1109/tsmc.2024" },
+      { "title": "Distributed Ledger Architectures for Secure Healthcare Records Exchange", "journal": "Journal of Medical Systems", "year": 2023, "url": "https://doi.org/10.1007/jms.2023" }
+    ],
+    "achievements": [
+      "Best Research Paper Award (IEEE CloudCon, 2024)",
+      "Senior Member, Computer Society of India"
+    ]
+  },
+  {
+    "id": "naveen-kumar",
+    "departmentId": "fiat",
+    "name": "Dr. Naveen Kumar",
+    "designation": "Professor & Deputy Dean (Advanced Technology)",
+    "email": "naveen.kumar@spsu.ac.in",
+    "phone": "+91-294-2760102",
+    "bio": "Dr. Naveen Kumar directs CAD/CAM labs and mechanical engineering research at SPSU. His work targets solid mechanics, vibration analysis, and modern fabrication techniques in collaboration with L&T.",
+    "image": "https://spsu.ac.in/images/faculty/naveen-kumar.jpg",
+    "specializations": ["CAD/CAM Systems", "Vibration Analysis", "Automotive Design"],
+    "publications": [
+      { "title": "Finite Element Analysis of Stress Distributions in Mining Drills", "journal": "International Journal of Mining Science", "year": 2023, "url": "https://doi.org/10.1016/ijms.2023" }
+    ],
+    "achievements": [
+      "Patent holder for 'Adaptive Shock-Absorbing Mechanics for Heavy Utility Vehicles' (2024)",
+      "L&T EduTech Excellence Mentor Award"
+    ]
+  },
+  {
+    "id": "deepak-vyas",
+    "departmentId": "sciences",
+    "name": "Dr. Deepak Vyas",
+    "designation": "Associate Professor & Deputy Dean (Sciences)",
+    "email": "deepak.vyas@spsu.ac.in",
+    "phone": "+91-294-2760103",
+    "bio": "Dr. Deepak Vyas focuses on applied engineering physics and semiconductor thin-films. He leads the materials research laboratory at SPSU, investigating green energy storage devices.",
+    "image": "https://spsu.ac.in/images/faculty/deepak-vyas.jpg",
+    "specializations": ["Semiconductor Physics", "Green Energy Devices", "Thin-Film Characterization"],
+    "publications": [
+      { "title": "Synthesis of Transition Metal Oxide Nanoparticles for Supercapacitors", "journal": "Journal of Power Sources", "year": 2024, "url": "https://doi.org/10.1016/jps.2024" }
+    ],
+    "achievements": [
+      "Principal Investigator, DST-SERB Core Research Grant (2023-2026)",
+      "Fellow of the Physics Academy of India"
+    ]
+  },
+  {
+    "id": "disha-mathur",
+    "departmentId": "mgmt",
+    "name": "Dr. Disha Mathur",
+    "designation": "Associate Professor (Human Resource Management)",
+    "email": "disha.mathur@spsu.ac.in",
+    "phone": "+91-294-2760106",
+    "bio": "Dr. Disha Mathur possesses 15+ years of academic and administrative experience. Her research centers around organizational behavior, women empowerment, and human resource policies.",
+    "image": "https://spsu.ac.in/images/faculty/disha-mathur.jpg",
+    "specializations": ["Organizational Behavior", "Human Resource Management", "Strategic HR"],
+    "publications": [
+      { "title": "Impact of Hybrid Work Models on Employee Engagement in Rajasthan", "journal": "South Asian Journal of Management", "year": 2024 }
+    ],
+    "achievements": [
+      "Best Teacher Award (SMLS, 2023)"
+    ]
+  },
+  {
+    "id": "manish-dadhich",
+    "departmentId": "mgmt",
+    "name": "Dr. Manish Dadhich",
+    "designation": "Associate Professor (Finance & Fintech)",
+    "email": "manish.dadhich@spsu.ac.in",
+    "phone": "+91-294-2760107",
+    "bio": "Dr. Manish Dadhich is a financial analyst and corporate consultant specializing in fintech adoption, stock market dynamics, and digital payment systems.",
+    "image": "https://spsu.ac.in/images/faculty/manish-dadhich.jpg",
+    "specializations": ["Fintech Systems", "Investment Portfolios", "Financial Cryptography"],
+    "publications": [
+      { "title": "Predictive Models for Cryptocurrency Markets Using Neural Networks", "journal": "Journal of Economic Dynamics", "year": 2024 }
+    ],
+    "achievements": [
+      "Consultant for leading investment firms on block-trading policies (2023)"
+    ]
+  },
+  {
+    "id": "emmanuel-sunkari",
+    "departmentId": "fiat",
+    "name": "Dr. Emmanuel Daanoba Sunkari",
+    "designation": "Associate Professor (Mining Engineering)",
+    "email": "emmanuel.sunkari@spsu.ac.in",
+    "phone": "+91-294-2760105",
+    "bio": "Dr. Emmanuel Daanoba Sunkari is an expert in environmental geology, geochemical mapping, and sustainable mining practices. He publishes research in water pollution and mineral resources management.",
+    "image": "https://spsu.ac.in/images/faculty/emmanuel-sunkari.jpg",
+    "specializations": ["Geochemistry", "Sustainable Mining", "Environmental Geology"],
+    "publications": [
+      { "title": "Fluoride Hydrogeochemistry in Arid Groundwater Reservoirs", "journal": "Environmental Earth Sciences", "year": 2023 }
+    ],
+    "achievements": [
+      "Young Scientist Research Grant (2024)"
+    ]
+  },
+  {
+    "id": "avinash-ojha",
+    "departmentId": "fiat",
+    "name": "Dr. Avinash Ojha",
+    "designation": "Associate Professor (Civil Engineering)",
+    "email": "avinash.ojha@spsu.ac.in",
+    "phone": "+91-294-2760108",
+    "bio": "Dr. Avinash Ojha teaches geotechnical engineering and structural safety. His research evaluates sustainable concrete composites and earthquake resistant designs.",
+    "image": "https://spsu.ac.in/images/faculty/avinash-ojha.jpg",
+    "specializations": ["Geotechnical Engineering", "Sustainable Concrete", "Earthquake Engineering"],
+    "publications": [
+      { "title": "Performance of Cementitious Composites Embedded with Recycled Glass", "journal": "Construction and Building Materials", "year": 2024 }
+    ],
+    "achievements": [
+      "Consulting Geologist for JK Cement Quarry Expansion"
+    ]
+  },
+  {
+    "id": "ashutosh-gupta",
+    "departmentId": "cse",
+    "name": "Dr. Ashutosh Gupta",
+    "designation": "Associate Professor (Computer Science)",
+    "email": "ashutosh.gupta@spsu.ac.in",
+    "phone": "+91-294-2760104",
+    "bio": "Dr. Ashutosh Gupta researches computer networks, cybersecurity, and cryptography. He works closely with Xebia to teach Advanced DevSecOps and cloud architectures to undergraduate cohorts.",
+    "image": "https://spsu.ac.in/images/faculty/ashutosh-gupta.jpg",
+    "specializations": ["Cryptography", "Network Protocols", "DevSecOps Systems"],
+    "publications": [
+      { "title": "Preventing DDoS Vulnerabilities in Cloud Native Architectures", "journal": "Springer Cybersecurity and Trust", "year": 2024 }
+    ],
+    "achievements": [
+      "Outstanding Pedagogy Award (SPSU, 2023)",
+      "Certified DevSecOps Practitioner"
+    ]
+  },
+  {
+    "id": "arun-vaishnav",
+    "departmentId": "cse",
+    "name": "Dr. Arun Vaishnav",
+    "designation": "Assistant Professor (Computer Science)",
+    "email": "arun.vaishnav@spsu.ac.in",
+    "phone": "+91-294-2760109",
+    "bio": "Dr. Arun Vaishnav has over 10 years of experience in computer science education, focusing on full stack technologies, dynamic routing protocols, and database performance tuning.",
+    "image": "https://spsu.ac.in/images/faculty/arun-vaishnav.jpg",
+    "specializations": ["Full Stack Engineering", "Database Systems", "Performance Optimization"],
+    "publications": [
+      { "title": "Reducing Response Latencies in Distributed SQL Frameworks", "journal": "Software Practice and Experience", "year": 2023 }
+    ],
+    "achievements": [
+      "Lead Web Development Architect for the University Portal Revamp Project"
+    ]
+  },
+  {
+    "id": "prithvi-singh",
+    "departmentId": "sciences",
+    "name": "Dr. Prithvi Singh",
+    "designation": "Associate Professor (Physics)",
+    "email": "prithvi.singh@spsu.ac.in",
+    "phone": "+91-294-2760110",
+    "bio": "Dr. Prithvi Singh specializes in molecular physics and computational astrophysics. He instructs courses in electrodynamics and mathematical methods in physics.",
+    "image": "https://spsu.ac.in/images/faculty/prithvi-singh.jpg",
+    "specializations": ["Electrodynamics", "Molecular Physics", "Computational Physics"],
+    "publications": [
+      { "title": "Electronic Transitions and Spectra of Triatomic Radicals", "journal": "Journal of Chemical Physics", "year": 2023 }
+    ],
+    "achievements": [
+      "Invited Speaker at the National Physics Congress (2024)"
+    ]
+  },
+  {
+    "id": "shweta-lalwani",
+    "departmentId": "design",
+    "name": "Dr. Shweta Lalwani",
+    "designation": "Professor & Deputy Dean (Design & Liberal Studies)",
+    "email": "shweta.lalwani@spsu.ac.in",
+    "phone": "+91-294-2760111",
+    "bio": "Dr. Shweta Lalwani oversees academic development for liberal studies, communication design, and gaming. Her research centers around design thinking, UI/UX aesthetics, and cognitive mapping.",
+    "image": "https://spsu.ac.in/images/faculty/shweta-lalwani.jpg",
+    "specializations": ["Design Thinking", "UI/UX Interaction", "Liberal Humanities"],
+    "publications": [
+      { "title": "UX Aesthetics and Customer Trust in Educational Platforms", "journal": "Aesthetic Design Reviews", "year": 2024 }
+    ],
+    "achievements": [
+      "Curator for the SPSU Annual Arts Exhibition (2025)",
+      "Advisory panelist for digital product aesthetics"
+    ]
+  }
+]

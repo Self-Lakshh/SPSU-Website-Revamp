@@ -1,0 +1,42 @@
+[
+  {
+    "id": "placements-2025",
+    "year": "2024-2025",
+    "highestPackage": 13.0,
+    "averagePackage": 4.8,
+    "placementPercentage": 92.5,
+    "reportUrl": "https://spsu.ac.in/downloads/placements/placement-report-2025.pdf",
+    "recruiters": [
+      { "name": "IBM India", "logo": "IBM" },
+      { "name": "Xebia", "logo": "Xebia" },
+      { "name": "L&T EduTech", "logo": "L&T" },
+      { "name": "JK Cement Group", "logo": "JK Cement" },
+      { "name": "Wipro", "logo": "Wipro" },
+      { "name": "TCS", "logo": "TCS" },
+      { "name": "Syntel", "logo": "Syntel" }
+    ],
+    "successStories": [
+      {
+        "studentName": "Kunal Sharma",
+        "program": "B.Tech Computer Science & Engineering",
+        "companyName": "IBM India",
+        "packageLPA": 12.0,
+        "testimonial": "The co-branded IBM curriculum at SPSU gave me an edge during coding assessments. The hands-on project work helped me secure a high-paying engineer role."
+      },
+      {
+        "studentName": "Nisha Rathore",
+        "program": "Master of Business Administration (MBA)",
+        "companyName": "JK Cement Group",
+        "packageLPA": 10.5,
+        "testimonial": "The management seminars and case studies prepared me for operations logistics. Entering JK Cement as a management trainee has launched my corporate career."
+      },
+      {
+        "studentName": "Rahul Verma",
+        "program": "B.Tech Mining Engineering",
+        "companyName": "L&T EduTech",
+        "packageLPA": 8.0,
+        "testimonial": "Having hands-on training with physical mining equipment in Udaipur prepared me perfectly for my role as a Site Planning Analyst at L&T."
+      }
+    ]
+  }
+]

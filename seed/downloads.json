@@ -1,0 +1,37 @@
+[
+  {
+    "id": "brochure-2024",
+    "title": "SPSU Admissions Brochure 2024-25",
+    "category": "brochures",
+    "fileSize": "4.2 MB",
+    "url": "https://spsu.ac.in/downloads/brochures/admission-brochure.pdf"
+  },
+  {
+    "id": "syllabus-btech-cse",
+    "title": "B.Tech Computer Science Syllabus 2024",
+    "category": "syllabus",
+    "fileSize": "1.8 MB",
+    "url": "https://spsu.ac.in/downloads/syllabus/btech-cse-2024.pdf"
+  },
+  {
+    "id": "syllabus-mba",
+    "title": "MBA Curriculum & Course Handbook",
+    "category": "syllabus",
+    "fileSize": "2.1 MB",
+    "url": "https://spsu.ac.in/downloads/syllabus/mba-curriculum.pdf"
+  },
+  {
+    "id": "form-antiragging",
+    "title": "Anti-Ragging Compliance Affidavit Form",
+    "category": "forms",
+    "fileSize": "0.4 MB",
+    "url": "https://spsu.ac.in/downloads/forms/anti-ragging-affidavit.pdf"
+  },
+  {
+    "id": "policy-scholarships",
+    "title": "Admissions Scholarship Guidelines & Matrix",
+    "category": "policies",
+    "fileSize": "1.1 MB",
+    "url": "https://spsu.ac.in/downloads/policies/scholarships-matrix.pdf"
+  }
+]

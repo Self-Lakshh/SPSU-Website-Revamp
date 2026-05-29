@@ -1,0 +1,56 @@
+[
+  {
+    "id": "album-campus-life",
+    "title": "Campus Infrastructure & Life",
+    "description": "Explorations of our beautiful residential campus, central lawns, academic blocks, and campus facilities in Bhatewar, Udaipur.",
+    "coverImage": "https://spsu.ac.in/images/about/campus.jpg",
+    "images": [
+      {
+        "id": "campus-1",
+        "url": "https://spsu.ac.in/images/about/campus.jpg",
+        "caption": "SPSU Udaipur Residential Campus Overview"
+      },
+      {
+        "id": "campus-2",
+        "url": "https://spsu.ac.in/images/slider/academic-block.jpg",
+        "caption": "Main Academic Block and Administrative Offices"
+      }
+    ]
+  },
+  {
+    "id": "album-labs-research",
+    "title": "Engineering Labs & Research Hubs",
+    "description": "Inside our state-of-the-art engineering laboratories, computing facilities, and specialized research spaces.",
+    "coverImage": "https://spsu.ac.in/images/departments/science-lab.jpg",
+    "images": [
+      {
+        "id": "lab-1",
+        "url": "https://spsu.ac.in/images/departments/science-lab.jpg",
+        "caption": "Applied Chemistry and Polymer Characterization Research Space"
+      },
+      {
+        "id": "lab-2",
+        "url": "https://spsu.ac.in/images/gallery/design-studio.jpg",
+        "caption": "Creative Media and UI/UX Design Studio"
+      }
+    ]
+  },
+  {
+    "id": "album-events-fests",
+    "title": "Seminars & Student Events",
+    "description": "Student fests, hackathons, and corporate seminars conducted on campus.",
+    "coverImage": "https://spsu.ac.in/images/gallery/management-seminar.jpg",
+    "images": [
+      {
+        "id": "event-1",
+        "url": "https://spsu.ac.in/images/gallery/management-seminar.jpg",
+        "caption": "Corporate Leadership Summit at the Seminar Hall"
+      },
+      {
+        "id": "event-2",
+        "url": "https://spsu.ac.in/images/gallery/moot-court.jpg",
+        "caption": "Student Advocates practicing at the Moot Court hall"
+      }
+    ]
+  }
+]
