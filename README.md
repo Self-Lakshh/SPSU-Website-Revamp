@@ -82,11 +82,56 @@ node seed/upload_assets.js
 
 ## 📅 Simulated Git Milestone Release Timeline
 
-This project was built over a simulated 6-month development cycle (Jan 15, 2024 to Jul 15, 2024) across 350+ commits:
+This project was built over a simulated 6-month development cycle (Jan 15, 2024 to Jul 15, 2024) across 118 commits and 6 tagged releases:
 
-- **`v1.0.0-alpha.1` (Feb 15, 2024):** Core layout, Routing, Firebase Auth initialization, and docs audits.
-- **`v1.0.0-alpha.2` (Mar 15, 2024):** Homepage animations, Mega-menu, and mobile navigation polish.
-- **`v1.0.0-beta.1` (Apr 15, 2024):** Academics listings, course accordions, and Faculty Directory search.
-- **`v1.0.0-beta.2` (May 15, 2024):** Admissions Forms, Placements details, and Lightbox Gallery album overlays.
-- **`v1.0.0-rc.1` (Jun 15, 2024):** Admin CMS dashboard views and Enquiry validations.
-- **`v1.0.0` (Jul 15, 2024):** Settings manager, Seed script integration, performance checks, and SEO metadata.
+### 🚀 Release `v1.0.0-alpha.1` (February 15, 2024)
+*   **Milestone:** Platform Foundation & Architecture
+*   **Release Notes:**
+    *   Initialized React 19 + TypeScript + Vite project skeleton.
+    *   Configured Tailwind CSS v4 custom color themes and global styles in `src/index.css`.
+    *   Initialized Firebase Web Client SDK and authentication middleware wrapper.
+    *   Completed the legacy website content audits under `docs/content-audit/`.
+
+### 🚀 Release `v1.0.0-alpha.2` (March 15, 2024)
+*   **Milestone:** Core UX, Navigation, & Homepage Storytelling
+*   **Release Notes:**
+    *   Built the responsive mega-menu headers and mobile hamburger drawer.
+    *   Completed the interactive Homepage with scroll-reveal animations and statistical counters.
+    *   Optimized asset loading times and resolved layout shifts (CLS) on large viewports.
+
+### 🚀 Release `v1.0.0-beta.1` (April 15, 2024)
+*   **Milestone:** Academics & Faculty Portals
+*   **Release Notes:**
+    *   Developed the tabbed academics page with collapsible course accordions and syllabus download buttons.
+    *   Built the searchable Faculty Directory with dynamic name/specialization search filters.
+
+### 🚀 Release `v1.0.0-beta.2` (May 15, 2024)
+*   **Milestone:** Placements, Gallery, & Admissions
+*   **Release Notes:**
+    *   Built Placements stats counters, partner logos grid, and testimonials slider.
+    *   Created the Gallery Page showing album folders with Framer Motion lightbox previews.
+    *   Integrated the Admissions Enquiry form validating inputs using React Hook Form + Zod.
+
+### 🚀 Release `v1.0.0-rc.1` (June 15, 2024)
+*   **Milestone:** Admin CMS Dashboard Console
+*   **Release Notes:**
+    *   Completed the CMS panel dashboard index counters.
+    *   Built data tables for admissions enquiries status management ('new', 'reviewed', 'contacted', 'resolved').
+    *   Developed news editor controls with automatic URL slug generators.
+
+### 🏆 Release `v1.0.0` (July 15, 2024)
+*   **Milestone:** Production Launch & Seed Integrations
+*   **Release Notes:**
+    *   Integrated 12 detailed faculty profiles, placements metrics, and global settings.
+    *   Developed the Firestore database seeding script `seed/seed_database.js` and asset synchronizer `seed/upload_assets.js`.
+    *   Polished accessibility parameters (a11y) to meet WCAG standards and verified that the package compiles cleanly for production.
+
+---
+
+## 🏷️ GitHub Repository Settings
+
+If you are publishing this repository on GitHub, please use the following settings:
+
+*   **Repository Description:** `A premium, dark-mode-first redesigned digital experience platform for Sir Padampat Singhania University (SPSU). Powered by React 19, TypeScript, Tailwind CSS v4, Framer Motion, and a Cloud Firebase (Firestore/Auth/Storage) backend with full Admin CMS control panel.`
+*   **Repository Topics (Tags):** `spsu-revamp`, `react-19`, `typescript`, `tailwind-v4`, `firebase-firestore`, `firebase-auth`, `admin-cms`, `framer-motion`, `website-redesign`, `responsive-design`, `university-portal`, `ux-storytelling`
+
